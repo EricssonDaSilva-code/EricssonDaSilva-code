@@ -8,7 +8,7 @@ Hello developer, I'm Ericsson, feel free to collaborate or get in touch, always 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EricssonDaSilva-code)
 
 ![Ericsson GitHub stats](https://github-readme-stats.vercel.app/api?username=EricssonDaSilva-code&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={EricssonDaSilva-code}&theme=blue-green)
+![](https://starchart.cc/{EricssonDaSilva}/{repo}.svg)
 
 ## These are some of the technologies and tools that I work with:
 
