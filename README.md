@@ -1,6 +1,11 @@
 ## Hi there! I'm Ericsson da Silva 👋
 
-Hello developer, I'm Ericsson, feel free to collaborate or get in touch, always looking to learn!
+POO JAVA programmer. Spring boot.
+JPA connection in Hibernate with Database: relational MySQL, Postgress, SQL Server and Oracle. And NoSQLl with MogoDB.
+Repository: MAVEN
+Webservices: API Rest and Rest Full with JSON and Java format with TonKat.
+My versioning is done with Git and Github.
+Agile methods: SCRUM, Kanban UML.
 
 ## About me
 
