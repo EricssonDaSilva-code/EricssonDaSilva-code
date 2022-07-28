@@ -21,7 +21,7 @@
   <a href="mailto:dasilva.ericsson@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dasilva.ericsson@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/EricssonDaSilva-code" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ericsson-da-silva-java-developer" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericsson-da-silva-java-developer" /></a>
 
   <a href="https://wa.me/5551998268579" alt="WhatsApp">
