@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>IntelliJ IDEA, Eclipse, Spring Tool Suite, VSCode, Spring Framework, Spring Boot, Spring Data, Spring MVC, JPA/Hibernate, Maven, Git, Github, Angular, Python e Kivy.</strong>
+  💼 Ferramentas: <strong>IntelliJ IDEA, Eclipse, Spring Tool Suite, VSCode, Spring Framework, Spring Boot, Spring Data, Spring MVC, JPA/Hibernate, Maven, MySQL, Git, Github, Angular, Python e Kivy.</strong>
 </p>
 
 <p align="left">
