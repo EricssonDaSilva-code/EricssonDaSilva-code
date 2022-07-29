@@ -1,4 +1,4 @@
-<img src="./image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, sou o Ericsson, <strong>Desenvolvedor Back-End Java</strong>.<br>
