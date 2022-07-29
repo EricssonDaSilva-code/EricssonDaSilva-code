@@ -36,5 +36,5 @@
 
 <div align="center">
   <a href="https://github.com/EricssonDaSilva-code">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EricssonDaSilva-code&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricssonDaSilva-code&layout=compact&langs_count=8&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=EricssonDaSilva-code&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricssonDaSilva-code&layout=compact&langs_count=8&theme=radical"/>
