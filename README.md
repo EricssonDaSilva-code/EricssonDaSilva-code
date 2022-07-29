@@ -27,13 +27,13 @@
   <a href="https://wa.me/5551998268579" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551998268579"/></a>
 </p>  
+<p>
 
 
 
 
 
-
-
+</p>
 <div align="center">
   <a href="https://github.com/EricssonDaSilva-code">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=EricssonDaSilva-code&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
